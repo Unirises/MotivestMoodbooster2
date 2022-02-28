@@ -357,8 +357,7 @@ body {
     height: 440px;
 }
 
-
-/* @media screen and (max-width: 1824px) {
+@media screen and (max-width: 1824px) {
     .p2_font {
         font-size: 18pt;
     }
@@ -398,4 +397,4 @@ body {
         width: 13%;
         transform: rotate(20deg);
     }
-} */
+}
